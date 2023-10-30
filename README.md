@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priya1176
-- 👀 I’m interested in Frontend Development
+- 👀 I’m interested in Website Development.
 - 🌱 I’m currently learning React, Redux and Next.JS
-- 💞️ I’m looking Ffor job as a Frontend developer
+- 💞️ I’m looking for job as a Frontend developer
 - 📫 How to reach me - pritypriya1176@gmail.com, Linkedin-
 https://www.linkedin.com/in/prity-priyadarshini-006598272/
 <!---
