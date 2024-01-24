@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priya1176
+- 👋 Hi, I’m Prity Priyadarshini
 - 👀 I’m interested in Full Stack web Development.
 - 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking for job as a web developer
