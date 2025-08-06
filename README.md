@@ -1,6 +1,6 @@
 👋 Hi, I’m Prity Priyadarshini
 
-💻 I’m a Full Stack Web Developer with over 1 year of hands-on experience building responsive, user-friendly, and scalable web applications using React.js, Django, Node.js, and RESTful APIs.
+💻 I’m a software developer with over 1 year of hands-on experience building responsive, user-friendly, and scalable web applications using React.js, Python ,Django, Node.js, and RESTful APIs.
 
 🌱 I'm currently expanding my skills in frontend and backend development, with a strong focus on UI/UX design, performance optimization, and clean code practices.
 
